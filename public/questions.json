@@ -1,0 +1,1794 @@
+{
+  "subjects": [
+    {
+      "id": "js",
+      "title": "JavaScript Fundamentals",
+      "emoji": "\ud83d\ude80",
+      "durationMinutes": 30,
+      "questions": [
+        {
+          "id": "js-1",
+          "text": "What is the result of `typeof NaN`?",
+          "options": ["undefined", "NaN", "number", "object"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "js-2",
+          "text": "Which of these is NOT a JavaScript data type?",
+          "options": ["String", "Boolean", "Character", "Undefined"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "js-3",
+          "text": "Which keyword is used to declare a constant?",
+          "options": ["var", "let", "const", "constant"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "js-4",
+          "text": "What will `console.log(0 == '0')` output?",
+          "options": ["true", "false", "undefined", "Error"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "js-5",
+          "text": "Which of the following is NOT a looping structure?",
+          "options": ["for", "while", "foreach", "repeat"],
+          "correctAnswer": 3
+        },
+        {
+          "id": "js-6",
+          "text": "What is the result of `typeof NaN`?",
+          "options": ["undefined", "NaN", "number", "object"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "js-7",
+          "text": "Which of these is NOT a JavaScript data type?",
+          "options": ["String", "Boolean", "Character", "Undefined"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "js-8",
+          "text": "Which keyword is used to declare a constant?",
+          "options": ["var", "let", "const", "constant"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "js-9",
+          "text": "What will `console.log(0 == '0')` output?",
+          "options": ["true", "false", "undefined", "Error"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "js-10",
+          "text": "Which of the following is NOT a looping structure?",
+          "options": ["for", "while", "foreach", "repeat"],
+          "correctAnswer": 3
+        },
+        {
+          "id": "js-11",
+          "text": "What is the result of `typeof NaN`?",
+          "options": ["undefined", "NaN", "number", "object"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "js-12",
+          "text": "Which of these is NOT a JavaScript data type?",
+          "options": ["String", "Boolean", "Character", "Undefined"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "js-13",
+          "text": "Which keyword is used to declare a constant?",
+          "options": ["var", "let", "const", "constant"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "js-14",
+          "text": "What will `console.log(0 == '0')` output?",
+          "options": ["true", "false", "undefined", "Error"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "js-15",
+          "text": "Which of the following is NOT a looping structure?",
+          "options": ["for", "while", "foreach", "repeat"],
+          "correctAnswer": 3
+        },
+        {
+          "id": "js-16",
+          "text": "What is the result of `typeof NaN`?",
+          "options": ["undefined", "NaN", "number", "object"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "js-17",
+          "text": "Which of these is NOT a JavaScript data type?",
+          "options": ["String", "Boolean", "Character", "Undefined"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "js-18",
+          "text": "Which keyword is used to declare a constant?",
+          "options": ["var", "let", "const", "constant"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "js-19",
+          "text": "What will `console.log(0 == '0')` output?",
+          "options": ["true", "false", "undefined", "Error"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "js-20",
+          "text": "Which of the following is NOT a looping structure?",
+          "options": ["for", "while", "foreach", "repeat"],
+          "correctAnswer": 3
+        },
+        {
+          "id": "js-21",
+          "text": "What is the result of `typeof NaN`?",
+          "options": ["undefined", "NaN", "number", "object"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "js-22",
+          "text": "Which of these is NOT a JavaScript data type?",
+          "options": ["String", "Boolean", "Character", "Undefined"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "js-23",
+          "text": "Which keyword is used to declare a constant?",
+          "options": ["var", "let", "const", "constant"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "js-24",
+          "text": "What will `console.log(0 == '0')` output?",
+          "options": ["true", "false", "undefined", "Error"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "js-25",
+          "text": "Which of the following is NOT a looping structure?",
+          "options": ["for", "while", "foreach", "repeat"],
+          "correctAnswer": 3
+        },
+        {
+          "id": "js-26",
+          "text": "What is the result of `typeof NaN`?",
+          "options": ["undefined", "NaN", "number", "object"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "js-27",
+          "text": "Which of these is NOT a JavaScript data type?",
+          "options": ["String", "Boolean", "Character", "Undefined"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "js-28",
+          "text": "Which keyword is used to declare a constant?",
+          "options": ["var", "let", "const", "constant"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "js-29",
+          "text": "What will `console.log(0 == '0')` output?",
+          "options": ["true", "false", "undefined", "Error"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "js-30",
+          "text": "Which of the following is NOT a looping structure?",
+          "options": ["for", "while", "foreach", "repeat"],
+          "correctAnswer": 3
+        },
+        {
+          "id": "js-31",
+          "text": "What is the result of `typeof NaN`?",
+          "options": ["undefined", "NaN", "number", "object"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "js-32",
+          "text": "Which of these is NOT a JavaScript data type?",
+          "options": ["String", "Boolean", "Character", "Undefined"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "js-33",
+          "text": "Which keyword is used to declare a constant?",
+          "options": ["var", "let", "const", "constant"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "js-34",
+          "text": "What will `console.log(0 == '0')` output?",
+          "options": ["true", "false", "undefined", "Error"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "js-35",
+          "text": "Which of the following is NOT a looping structure?",
+          "options": ["for", "while", "foreach", "repeat"],
+          "correctAnswer": 3
+        },
+        {
+          "id": "js-36",
+          "text": "What is the result of `typeof NaN`?",
+          "options": ["undefined", "NaN", "number", "object"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "js-37",
+          "text": "Which of these is NOT a JavaScript data type?",
+          "options": ["String", "Boolean", "Character", "Undefined"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "js-38",
+          "text": "Which keyword is used to declare a constant?",
+          "options": ["var", "let", "const", "constant"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "js-39",
+          "text": "What will `console.log(0 == '0')` output?",
+          "options": ["true", "false", "undefined", "Error"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "js-40",
+          "text": "Which of the following is NOT a looping structure?",
+          "options": ["for", "while", "foreach", "repeat"],
+          "correctAnswer": 3
+        },
+        {
+          "id": "js-41",
+          "text": "What is the result of `typeof NaN`?",
+          "options": ["undefined", "NaN", "number", "object"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "js-42",
+          "text": "Which of these is NOT a JavaScript data type?",
+          "options": ["String", "Boolean", "Character", "Undefined"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "js-43",
+          "text": "Which keyword is used to declare a constant?",
+          "options": ["var", "let", "const", "constant"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "js-44",
+          "text": "What will `console.log(0 == '0')` output?",
+          "options": ["true", "false", "undefined", "Error"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "js-45",
+          "text": "Which of the following is NOT a looping structure?",
+          "options": ["for", "while", "foreach", "repeat"],
+          "correctAnswer": 3
+        },
+        {
+          "id": "js-46",
+          "text": "What is the result of `typeof NaN`?",
+          "options": ["undefined", "NaN", "number", "object"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "js-47",
+          "text": "Which of these is NOT a JavaScript data type?",
+          "options": ["String", "Boolean", "Character", "Undefined"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "js-48",
+          "text": "Which keyword is used to declare a constant?",
+          "options": ["var", "let", "const", "constant"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "js-49",
+          "text": "What will `console.log(0 == '0')` output?",
+          "options": ["true", "false", "undefined", "Error"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "js-50",
+          "text": "Which of the following is NOT a looping structure?",
+          "options": ["for", "while", "foreach", "repeat"],
+          "correctAnswer": 3
+        }
+      ]
+    },
+    {
+      "id": "react",
+      "title": "React",
+      "emoji": "\u269b\ufe0f",
+      "durationMinutes": 30,
+      "questions": [
+        {
+          "id": "react-1",
+          "text": "What hook is used for managing state?",
+          "options": ["useState", "useEffect", "useReducer", "useContext"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "react-2",
+          "text": "What is JSX?",
+          "options": [
+            "A JavaScript extension",
+            "A CSS framework",
+            "A React router library",
+            "A JSON parser"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "react-3",
+          "text": "Which method renders React components?",
+          "options": [
+            "React.mount()",
+            "React.render()",
+            "ReactDOM.render()",
+            "React.attach()"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "react-4",
+          "text": "Which hook is used for side effects?",
+          "options": ["useSide", "useEffect", "useMemo", "useRef"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "react-5",
+          "text": "Which is a valid React component type?",
+          "options": ["Function", "Class", "Both", "None"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "react-6",
+          "text": "What hook is used for managing state?",
+          "options": ["useState", "useEffect", "useReducer", "useContext"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "react-7",
+          "text": "What is JSX?",
+          "options": [
+            "A JavaScript extension",
+            "A CSS framework",
+            "A React router library",
+            "A JSON parser"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "react-8",
+          "text": "Which method renders React components?",
+          "options": [
+            "React.mount()",
+            "React.render()",
+            "ReactDOM.render()",
+            "React.attach()"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "react-9",
+          "text": "Which hook is used for side effects?",
+          "options": ["useSide", "useEffect", "useMemo", "useRef"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "react-10",
+          "text": "Which is a valid React component type?",
+          "options": ["Function", "Class", "Both", "None"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "react-11",
+          "text": "What hook is used for managing state?",
+          "options": ["useState", "useEffect", "useReducer", "useContext"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "react-12",
+          "text": "What is JSX?",
+          "options": [
+            "A JavaScript extension",
+            "A CSS framework",
+            "A React router library",
+            "A JSON parser"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "react-13",
+          "text": "Which method renders React components?",
+          "options": [
+            "React.mount()",
+            "React.render()",
+            "ReactDOM.render()",
+            "React.attach()"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "react-14",
+          "text": "Which hook is used for side effects?",
+          "options": ["useSide", "useEffect", "useMemo", "useRef"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "react-15",
+          "text": "Which is a valid React component type?",
+          "options": ["Function", "Class", "Both", "None"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "react-16",
+          "text": "What hook is used for managing state?",
+          "options": ["useState", "useEffect", "useReducer", "useContext"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "react-17",
+          "text": "What is JSX?",
+          "options": [
+            "A JavaScript extension",
+            "A CSS framework",
+            "A React router library",
+            "A JSON parser"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "react-18",
+          "text": "Which method renders React components?",
+          "options": [
+            "React.mount()",
+            "React.render()",
+            "ReactDOM.render()",
+            "React.attach()"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "react-19",
+          "text": "Which hook is used for side effects?",
+          "options": ["useSide", "useEffect", "useMemo", "useRef"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "react-20",
+          "text": "Which is a valid React component type?",
+          "options": ["Function", "Class", "Both", "None"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "react-21",
+          "text": "What hook is used for managing state?",
+          "options": ["useState", "useEffect", "useReducer", "useContext"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "react-22",
+          "text": "What is JSX?",
+          "options": [
+            "A JavaScript extension",
+            "A CSS framework",
+            "A React router library",
+            "A JSON parser"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "react-23",
+          "text": "Which method renders React components?",
+          "options": [
+            "React.mount()",
+            "React.render()",
+            "ReactDOM.render()",
+            "React.attach()"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "react-24",
+          "text": "Which hook is used for side effects?",
+          "options": ["useSide", "useEffect", "useMemo", "useRef"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "react-25",
+          "text": "Which is a valid React component type?",
+          "options": ["Function", "Class", "Both", "None"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "react-26",
+          "text": "What hook is used for managing state?",
+          "options": ["useState", "useEffect", "useReducer", "useContext"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "react-27",
+          "text": "What is JSX?",
+          "options": [
+            "A JavaScript extension",
+            "A CSS framework",
+            "A React router library",
+            "A JSON parser"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "react-28",
+          "text": "Which method renders React components?",
+          "options": [
+            "React.mount()",
+            "React.render()",
+            "ReactDOM.render()",
+            "React.attach()"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "react-29",
+          "text": "Which hook is used for side effects?",
+          "options": ["useSide", "useEffect", "useMemo", "useRef"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "react-30",
+          "text": "Which is a valid React component type?",
+          "options": ["Function", "Class", "Both", "None"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "react-31",
+          "text": "What hook is used for managing state?",
+          "options": ["useState", "useEffect", "useReducer", "useContext"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "react-32",
+          "text": "What is JSX?",
+          "options": [
+            "A JavaScript extension",
+            "A CSS framework",
+            "A React router library",
+            "A JSON parser"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "react-33",
+          "text": "Which method renders React components?",
+          "options": [
+            "React.mount()",
+            "React.render()",
+            "ReactDOM.render()",
+            "React.attach()"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "react-34",
+          "text": "Which hook is used for side effects?",
+          "options": ["useSide", "useEffect", "useMemo", "useRef"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "react-35",
+          "text": "Which is a valid React component type?",
+          "options": ["Function", "Class", "Both", "None"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "react-36",
+          "text": "What hook is used for managing state?",
+          "options": ["useState", "useEffect", "useReducer", "useContext"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "react-37",
+          "text": "What is JSX?",
+          "options": [
+            "A JavaScript extension",
+            "A CSS framework",
+            "A React router library",
+            "A JSON parser"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "react-38",
+          "text": "Which method renders React components?",
+          "options": [
+            "React.mount()",
+            "React.render()",
+            "ReactDOM.render()",
+            "React.attach()"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "react-39",
+          "text": "Which hook is used for side effects?",
+          "options": ["useSide", "useEffect", "useMemo", "useRef"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "react-40",
+          "text": "Which is a valid React component type?",
+          "options": ["Function", "Class", "Both", "None"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "react-41",
+          "text": "What hook is used for managing state?",
+          "options": ["useState", "useEffect", "useReducer", "useContext"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "react-42",
+          "text": "What is JSX?",
+          "options": [
+            "A JavaScript extension",
+            "A CSS framework",
+            "A React router library",
+            "A JSON parser"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "react-43",
+          "text": "Which method renders React components?",
+          "options": [
+            "React.mount()",
+            "React.render()",
+            "ReactDOM.render()",
+            "React.attach()"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "react-44",
+          "text": "Which hook is used for side effects?",
+          "options": ["useSide", "useEffect", "useMemo", "useRef"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "react-45",
+          "text": "Which is a valid React component type?",
+          "options": ["Function", "Class", "Both", "None"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "react-46",
+          "text": "What hook is used for managing state?",
+          "options": ["useState", "useEffect", "useReducer", "useContext"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "react-47",
+          "text": "What is JSX?",
+          "options": [
+            "A JavaScript extension",
+            "A CSS framework",
+            "A React router library",
+            "A JSON parser"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "react-48",
+          "text": "Which method renders React components?",
+          "options": [
+            "React.mount()",
+            "React.render()",
+            "ReactDOM.render()",
+            "React.attach()"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "react-49",
+          "text": "Which hook is used for side effects?",
+          "options": ["useSide", "useEffect", "useMemo", "useRef"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "react-50",
+          "text": "Which is a valid React component type?",
+          "options": ["Function", "Class", "Both", "None"],
+          "correctAnswer": 2
+        }
+      ]
+    },
+    {
+      "id": "node",
+      "title": "Node.js",
+      "emoji": "🟢",
+      "durationMinutes": 30,
+      "questions": [
+        {
+          "id": "node-1",
+          "text": "Which module is used to create a server?",
+          "options": ["fs", "http", "url", "path"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "node-2",
+          "text": "Which is NOT built into Node.js?",
+          "options": ["fs", "http", "express", "path"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "node-3",
+          "text": "What does npm stand for?",
+          "options": [
+            "Node Package Manager",
+            "New Project Manager",
+            "Node Process Manager",
+            "Network Package Module"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "node-4",
+          "text": "Which method reads files?",
+          "options": ["fs.read()", "fs.readFile()", "read.fs()", "file.read()"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "node-5",
+          "text": "Which runtime does Node.js use?",
+          "options": ["V8", "SpiderMonkey", "Chakra", "Java"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "node-6",
+          "text": "Which module is used to create a server?",
+          "options": ["fs", "http", "url", "path"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "node-7",
+          "text": "Which is NOT built into Node.js?",
+          "options": ["fs", "http", "express", "path"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "node-8",
+          "text": "What does npm stand for?",
+          "options": [
+            "Node Package Manager",
+            "New Project Manager",
+            "Node Process Manager",
+            "Network Package Module"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "node-9",
+          "text": "Which method reads files?",
+          "options": ["fs.read()", "fs.readFile()", "read.fs()", "file.read()"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "node-10",
+          "text": "Which runtime does Node.js use?",
+          "options": ["V8", "SpiderMonkey", "Chakra", "Java"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "node-11",
+          "text": "Which module is used to create a server?",
+          "options": ["fs", "http", "url", "path"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "node-12",
+          "text": "Which is NOT built into Node.js?",
+          "options": ["fs", "http", "express", "path"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "node-13",
+          "text": "What does npm stand for?",
+          "options": [
+            "Node Package Manager",
+            "New Project Manager",
+            "Node Process Manager",
+            "Network Package Module"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "node-14",
+          "text": "Which method reads files?",
+          "options": ["fs.read()", "fs.readFile()", "read.fs()", "file.read()"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "node-15",
+          "text": "Which runtime does Node.js use?",
+          "options": ["V8", "SpiderMonkey", "Chakra", "Java"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "node-16",
+          "text": "Which module is used to create a server?",
+          "options": ["fs", "http", "url", "path"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "node-17",
+          "text": "Which is NOT built into Node.js?",
+          "options": ["fs", "http", "express", "path"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "node-18",
+          "text": "What does npm stand for?",
+          "options": [
+            "Node Package Manager",
+            "New Project Manager",
+            "Node Process Manager",
+            "Network Package Module"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "node-19",
+          "text": "Which method reads files?",
+          "options": ["fs.read()", "fs.readFile()", "read.fs()", "file.read()"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "node-20",
+          "text": "Which runtime does Node.js use?",
+          "options": ["V8", "SpiderMonkey", "Chakra", "Java"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "node-21",
+          "text": "Which module is used to create a server?",
+          "options": ["fs", "http", "url", "path"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "node-22",
+          "text": "Which is NOT built into Node.js?",
+          "options": ["fs", "http", "express", "path"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "node-23",
+          "text": "What does npm stand for?",
+          "options": [
+            "Node Package Manager",
+            "New Project Manager",
+            "Node Process Manager",
+            "Network Package Module"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "node-24",
+          "text": "Which method reads files?",
+          "options": ["fs.read()", "fs.readFile()", "read.fs()", "file.read()"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "node-25",
+          "text": "Which runtime does Node.js use?",
+          "options": ["V8", "SpiderMonkey", "Chakra", "Java"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "node-26",
+          "text": "Which module is used to create a server?",
+          "options": ["fs", "http", "url", "path"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "node-27",
+          "text": "Which is NOT built into Node.js?",
+          "options": ["fs", "http", "express", "path"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "node-28",
+          "text": "What does npm stand for?",
+          "options": [
+            "Node Package Manager",
+            "New Project Manager",
+            "Node Process Manager",
+            "Network Package Module"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "node-29",
+          "text": "Which method reads files?",
+          "options": ["fs.read()", "fs.readFile()", "read.fs()", "file.read()"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "node-30",
+          "text": "Which runtime does Node.js use?",
+          "options": ["V8", "SpiderMonkey", "Chakra", "Java"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "node-31",
+          "text": "Which module is used to create a server?",
+          "options": ["fs", "http", "url", "path"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "node-32",
+          "text": "Which is NOT built into Node.js?",
+          "options": ["fs", "http", "express", "path"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "node-33",
+          "text": "What does npm stand for?",
+          "options": [
+            "Node Package Manager",
+            "New Project Manager",
+            "Node Process Manager",
+            "Network Package Module"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "node-34",
+          "text": "Which method reads files?",
+          "options": ["fs.read()", "fs.readFile()", "read.fs()", "file.read()"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "node-35",
+          "text": "Which runtime does Node.js use?",
+          "options": ["V8", "SpiderMonkey", "Chakra", "Java"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "node-36",
+          "text": "Which module is used to create a server?",
+          "options": ["fs", "http", "url", "path"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "node-37",
+          "text": "Which is NOT built into Node.js?",
+          "options": ["fs", "http", "express", "path"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "node-38",
+          "text": "What does npm stand for?",
+          "options": [
+            "Node Package Manager",
+            "New Project Manager",
+            "Node Process Manager",
+            "Network Package Module"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "node-39",
+          "text": "Which method reads files?",
+          "options": ["fs.read()", "fs.readFile()", "read.fs()", "file.read()"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "node-40",
+          "text": "Which runtime does Node.js use?",
+          "options": ["V8", "SpiderMonkey", "Chakra", "Java"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "node-41",
+          "text": "Which module is used to create a server?",
+          "options": ["fs", "http", "url", "path"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "node-42",
+          "text": "Which is NOT built into Node.js?",
+          "options": ["fs", "http", "express", "path"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "node-43",
+          "text": "What does npm stand for?",
+          "options": [
+            "Node Package Manager",
+            "New Project Manager",
+            "Node Process Manager",
+            "Network Package Module"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "node-44",
+          "text": "Which method reads files?",
+          "options": ["fs.read()", "fs.readFile()", "read.fs()", "file.read()"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "node-45",
+          "text": "Which runtime does Node.js use?",
+          "options": ["V8", "SpiderMonkey", "Chakra", "Java"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "node-46",
+          "text": "Which module is used to create a server?",
+          "options": ["fs", "http", "url", "path"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "node-47",
+          "text": "Which is NOT built into Node.js?",
+          "options": ["fs", "http", "express", "path"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "node-48",
+          "text": "What does npm stand for?",
+          "options": [
+            "Node Package Manager",
+            "New Project Manager",
+            "Node Process Manager",
+            "Network Package Module"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "node-49",
+          "text": "Which method reads files?",
+          "options": ["fs.read()", "fs.readFile()", "read.fs()", "file.read()"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "node-50",
+          "text": "Which runtime does Node.js use?",
+          "options": ["V8", "SpiderMonkey", "Chakra", "Java"],
+          "correctAnswer": 0
+        }
+      ]
+    },
+    {
+      "id": "db",
+      "title": "Databases",
+      "emoji": "\ud83d\udcbe",
+      "durationMinutes": 30,
+      "questions": [
+        {
+          "id": "db-1",
+          "text": "Which SQL command retrieves data?",
+          "options": ["INSERT", "SELECT", "UPDATE", "DELETE"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "db-2",
+          "text": "What does ACID stand for?",
+          "options": [
+            "Accuracy, Consistency, Isolation, Durability",
+            "Atomicity, Consistency, Isolation, Durability",
+            "Atomicity, Correctness, Integrity, Dependability",
+            "Atomic, Concurrent, Isolated, Data"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "db-3",
+          "text": "Which is a NoSQL database?",
+          "options": ["PostgreSQL", "MySQL", "MongoDB", "SQLite"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "db-4",
+          "text": "Which command creates a table?",
+          "options": ["INSERT", "CREATE", "MAKE", "NEW"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "db-5",
+          "text": "Which JOIN returns all rows?",
+          "options": ["INNER JOIN", "LEFT JOIN", "FULL JOIN", "CROSS JOIN"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "db-6",
+          "text": "Which SQL command retrieves data?",
+          "options": ["INSERT", "SELECT", "UPDATE", "DELETE"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "db-7",
+          "text": "What does ACID stand for?",
+          "options": [
+            "Accuracy, Consistency, Isolation, Durability",
+            "Atomicity, Consistency, Isolation, Durability",
+            "Atomicity, Correctness, Integrity, Dependability",
+            "Atomic, Concurrent, Isolated, Data"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "db-8",
+          "text": "Which is a NoSQL database?",
+          "options": ["PostgreSQL", "MySQL", "MongoDB", "SQLite"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "db-9",
+          "text": "Which command creates a table?",
+          "options": ["INSERT", "CREATE", "MAKE", "NEW"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "db-10",
+          "text": "Which JOIN returns all rows?",
+          "options": ["INNER JOIN", "LEFT JOIN", "FULL JOIN", "CROSS JOIN"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "db-11",
+          "text": "Which SQL command retrieves data?",
+          "options": ["INSERT", "SELECT", "UPDATE", "DELETE"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "db-12",
+          "text": "What does ACID stand for?",
+          "options": [
+            "Accuracy, Consistency, Isolation, Durability",
+            "Atomicity, Consistency, Isolation, Durability",
+            "Atomicity, Correctness, Integrity, Dependability",
+            "Atomic, Concurrent, Isolated, Data"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "db-13",
+          "text": "Which is a NoSQL database?",
+          "options": ["PostgreSQL", "MySQL", "MongoDB", "SQLite"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "db-14",
+          "text": "Which command creates a table?",
+          "options": ["INSERT", "CREATE", "MAKE", "NEW"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "db-15",
+          "text": "Which JOIN returns all rows?",
+          "options": ["INNER JOIN", "LEFT JOIN", "FULL JOIN", "CROSS JOIN"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "db-16",
+          "text": "Which SQL command retrieves data?",
+          "options": ["INSERT", "SELECT", "UPDATE", "DELETE"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "db-17",
+          "text": "What does ACID stand for?",
+          "options": [
+            "Accuracy, Consistency, Isolation, Durability",
+            "Atomicity, Consistency, Isolation, Durability",
+            "Atomicity, Correctness, Integrity, Dependability",
+            "Atomic, Concurrent, Isolated, Data"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "db-18",
+          "text": "Which is a NoSQL database?",
+          "options": ["PostgreSQL", "MySQL", "MongoDB", "SQLite"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "db-19",
+          "text": "Which command creates a table?",
+          "options": ["INSERT", "CREATE", "MAKE", "NEW"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "db-20",
+          "text": "Which JOIN returns all rows?",
+          "options": ["INNER JOIN", "LEFT JOIN", "FULL JOIN", "CROSS JOIN"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "db-21",
+          "text": "Which SQL command retrieves data?",
+          "options": ["INSERT", "SELECT", "UPDATE", "DELETE"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "db-22",
+          "text": "What does ACID stand for?",
+          "options": [
+            "Accuracy, Consistency, Isolation, Durability",
+            "Atomicity, Consistency, Isolation, Durability",
+            "Atomicity, Correctness, Integrity, Dependability",
+            "Atomic, Concurrent, Isolated, Data"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "db-23",
+          "text": "Which is a NoSQL database?",
+          "options": ["PostgreSQL", "MySQL", "MongoDB", "SQLite"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "db-24",
+          "text": "Which command creates a table?",
+          "options": ["INSERT", "CREATE", "MAKE", "NEW"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "db-25",
+          "text": "Which JOIN returns all rows?",
+          "options": ["INNER JOIN", "LEFT JOIN", "FULL JOIN", "CROSS JOIN"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "db-26",
+          "text": "Which SQL command retrieves data?",
+          "options": ["INSERT", "SELECT", "UPDATE", "DELETE"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "db-27",
+          "text": "What does ACID stand for?",
+          "options": [
+            "Accuracy, Consistency, Isolation, Durability",
+            "Atomicity, Consistency, Isolation, Durability",
+            "Atomicity, Correctness, Integrity, Dependability",
+            "Atomic, Concurrent, Isolated, Data"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "db-28",
+          "text": "Which is a NoSQL database?",
+          "options": ["PostgreSQL", "MySQL", "MongoDB", "SQLite"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "db-29",
+          "text": "Which command creates a table?",
+          "options": ["INSERT", "CREATE", "MAKE", "NEW"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "db-30",
+          "text": "Which JOIN returns all rows?",
+          "options": ["INNER JOIN", "LEFT JOIN", "FULL JOIN", "CROSS JOIN"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "db-31",
+          "text": "Which SQL command retrieves data?",
+          "options": ["INSERT", "SELECT", "UPDATE", "DELETE"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "db-32",
+          "text": "What does ACID stand for?",
+          "options": [
+            "Accuracy, Consistency, Isolation, Durability",
+            "Atomicity, Consistency, Isolation, Durability",
+            "Atomicity, Correctness, Integrity, Dependability",
+            "Atomic, Concurrent, Isolated, Data"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "db-33",
+          "text": "Which is a NoSQL database?",
+          "options": ["PostgreSQL", "MySQL", "MongoDB", "SQLite"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "db-34",
+          "text": "Which command creates a table?",
+          "options": ["INSERT", "CREATE", "MAKE", "NEW"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "db-35",
+          "text": "Which JOIN returns all rows?",
+          "options": ["INNER JOIN", "LEFT JOIN", "FULL JOIN", "CROSS JOIN"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "db-36",
+          "text": "Which SQL command retrieves data?",
+          "options": ["INSERT", "SELECT", "UPDATE", "DELETE"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "db-37",
+          "text": "What does ACID stand for?",
+          "options": [
+            "Accuracy, Consistency, Isolation, Durability",
+            "Atomicity, Consistency, Isolation, Durability",
+            "Atomicity, Correctness, Integrity, Dependability",
+            "Atomic, Concurrent, Isolated, Data"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "db-38",
+          "text": "Which is a NoSQL database?",
+          "options": ["PostgreSQL", "MySQL", "MongoDB", "SQLite"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "db-39",
+          "text": "Which command creates a table?",
+          "options": ["INSERT", "CREATE", "MAKE", "NEW"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "db-40",
+          "text": "Which JOIN returns all rows?",
+          "options": ["INNER JOIN", "LEFT JOIN", "FULL JOIN", "CROSS JOIN"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "db-41",
+          "text": "Which SQL command retrieves data?",
+          "options": ["INSERT", "SELECT", "UPDATE", "DELETE"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "db-42",
+          "text": "What does ACID stand for?",
+          "options": [
+            "Accuracy, Consistency, Isolation, Durability",
+            "Atomicity, Consistency, Isolation, Durability",
+            "Atomicity, Correctness, Integrity, Dependability",
+            "Atomic, Concurrent, Isolated, Data"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "db-43",
+          "text": "Which is a NoSQL database?",
+          "options": ["PostgreSQL", "MySQL", "MongoDB", "SQLite"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "db-44",
+          "text": "Which command creates a table?",
+          "options": ["INSERT", "CREATE", "MAKE", "NEW"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "db-45",
+          "text": "Which JOIN returns all rows?",
+          "options": ["INNER JOIN", "LEFT JOIN", "FULL JOIN", "CROSS JOIN"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "db-46",
+          "text": "Which SQL command retrieves data?",
+          "options": ["INSERT", "SELECT", "UPDATE", "DELETE"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "db-47",
+          "text": "What does ACID stand for?",
+          "options": [
+            "Accuracy, Consistency, Isolation, Durability",
+            "Atomicity, Consistency, Isolation, Durability",
+            "Atomicity, Correctness, Integrity, Dependability",
+            "Atomic, Concurrent, Isolated, Data"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "db-48",
+          "text": "Which is a NoSQL database?",
+          "options": ["PostgreSQL", "MySQL", "MongoDB", "SQLite"],
+          "correctAnswer": 2
+        },
+        {
+          "id": "db-49",
+          "text": "Which command creates a table?",
+          "options": ["INSERT", "CREATE", "MAKE", "NEW"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "db-50",
+          "text": "Which JOIN returns all rows?",
+          "options": ["INNER JOIN", "LEFT JOIN", "FULL JOIN", "CROSS JOIN"],
+          "correctAnswer": 2
+        }
+      ]
+    },
+    {
+      "id": "algo",
+      "title": "Algorithms & Data Structures",
+      "emoji": "\ud83d\udcca",
+      "durationMinutes": 30,
+      "questions": [
+        {
+          "id": "algo-1",
+          "text": "What is the time complexity of binary search?",
+          "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "algo-2",
+          "text": "Which sorting has best average case?",
+          "options": [
+            "Bubble Sort",
+            "Quick Sort",
+            "Merge Sort",
+            "Selection Sort"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "algo-3",
+          "text": "Which data structure is used in BFS?",
+          "options": ["Stack", "Queue", "Heap", "Tree"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "algo-4",
+          "text": "Which algorithm is used for shortest path?",
+          "options": ["Dijkstra", "Merge Sort", "DFS", "Prim"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "algo-5",
+          "text": "What is Big O of linear search?",
+          "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "algo-6",
+          "text": "What is the time complexity of binary search?",
+          "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "algo-7",
+          "text": "Which sorting has best average case?",
+          "options": [
+            "Bubble Sort",
+            "Quick Sort",
+            "Merge Sort",
+            "Selection Sort"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "algo-8",
+          "text": "Which data structure is used in BFS?",
+          "options": ["Stack", "Queue", "Heap", "Tree"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "algo-9",
+          "text": "Which algorithm is used for shortest path?",
+          "options": ["Dijkstra", "Merge Sort", "DFS", "Prim"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "algo-10",
+          "text": "What is Big O of linear search?",
+          "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "algo-11",
+          "text": "What is the time complexity of binary search?",
+          "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "algo-12",
+          "text": "Which sorting has best average case?",
+          "options": [
+            "Bubble Sort",
+            "Quick Sort",
+            "Merge Sort",
+            "Selection Sort"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "algo-13",
+          "text": "Which data structure is used in BFS?",
+          "options": ["Stack", "Queue", "Heap", "Tree"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "algo-14",
+          "text": "Which algorithm is used for shortest path?",
+          "options": ["Dijkstra", "Merge Sort", "DFS", "Prim"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "algo-15",
+          "text": "What is Big O of linear search?",
+          "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "algo-16",
+          "text": "What is the time complexity of binary search?",
+          "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "algo-17",
+          "text": "Which sorting has best average case?",
+          "options": [
+            "Bubble Sort",
+            "Quick Sort",
+            "Merge Sort",
+            "Selection Sort"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "algo-18",
+          "text": "Which data structure is used in BFS?",
+          "options": ["Stack", "Queue", "Heap", "Tree"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "algo-19",
+          "text": "Which algorithm is used for shortest path?",
+          "options": ["Dijkstra", "Merge Sort", "DFS", "Prim"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "algo-20",
+          "text": "What is Big O of linear search?",
+          "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "algo-21",
+          "text": "What is the time complexity of binary search?",
+          "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "algo-22",
+          "text": "Which sorting has best average case?",
+          "options": [
+            "Bubble Sort",
+            "Quick Sort",
+            "Merge Sort",
+            "Selection Sort"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "algo-23",
+          "text": "Which data structure is used in BFS?",
+          "options": ["Stack", "Queue", "Heap", "Tree"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "algo-24",
+          "text": "Which algorithm is used for shortest path?",
+          "options": ["Dijkstra", "Merge Sort", "DFS", "Prim"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "algo-25",
+          "text": "What is Big O of linear search?",
+          "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "algo-26",
+          "text": "What is the time complexity of binary search?",
+          "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "algo-27",
+          "text": "Which sorting has best average case?",
+          "options": [
+            "Bubble Sort",
+            "Quick Sort",
+            "Merge Sort",
+            "Selection Sort"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "algo-28",
+          "text": "Which data structure is used in BFS?",
+          "options": ["Stack", "Queue", "Heap", "Tree"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "algo-29",
+          "text": "Which algorithm is used for shortest path?",
+          "options": ["Dijkstra", "Merge Sort", "DFS", "Prim"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "algo-30",
+          "text": "What is Big O of linear search?",
+          "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "algo-31",
+          "text": "What is the time complexity of binary search?",
+          "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "algo-32",
+          "text": "Which sorting has best average case?",
+          "options": [
+            "Bubble Sort",
+            "Quick Sort",
+            "Merge Sort",
+            "Selection Sort"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "algo-33",
+          "text": "Which data structure is used in BFS?",
+          "options": ["Stack", "Queue", "Heap", "Tree"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "algo-34",
+          "text": "Which algorithm is used for shortest path?",
+          "options": ["Dijkstra", "Merge Sort", "DFS", "Prim"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "algo-35",
+          "text": "What is Big O of linear search?",
+          "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "algo-36",
+          "text": "What is the time complexity of binary search?",
+          "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "algo-37",
+          "text": "Which sorting has best average case?",
+          "options": [
+            "Bubble Sort",
+            "Quick Sort",
+            "Merge Sort",
+            "Selection Sort"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "algo-38",
+          "text": "Which data structure is used in BFS?",
+          "options": ["Stack", "Queue", "Heap", "Tree"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "algo-39",
+          "text": "Which algorithm is used for shortest path?",
+          "options": ["Dijkstra", "Merge Sort", "DFS", "Prim"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "algo-40",
+          "text": "What is Big O of linear search?",
+          "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "algo-41",
+          "text": "What is the time complexity of binary search?",
+          "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "algo-42",
+          "text": "Which sorting has best average case?",
+          "options": [
+            "Bubble Sort",
+            "Quick Sort",
+            "Merge Sort",
+            "Selection Sort"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "algo-43",
+          "text": "Which data structure is used in BFS?",
+          "options": ["Stack", "Queue", "Heap", "Tree"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "algo-44",
+          "text": "Which algorithm is used for shortest path?",
+          "options": ["Dijkstra", "Merge Sort", "DFS", "Prim"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "algo-45",
+          "text": "What is Big O of linear search?",
+          "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "algo-46",
+          "text": "What is the time complexity of binary search?",
+          "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "algo-47",
+          "text": "Which sorting has best average case?",
+          "options": [
+            "Bubble Sort",
+            "Quick Sort",
+            "Merge Sort",
+            "Selection Sort"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "algo-48",
+          "text": "Which data structure is used in BFS?",
+          "options": ["Stack", "Queue", "Heap", "Tree"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "algo-49",
+          "text": "Which algorithm is used for shortest path?",
+          "options": ["Dijkstra", "Merge Sort", "DFS", "Prim"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "algo-50",
+          "text": "What is Big O of linear search?",
+          "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+          "correctAnswer": 0
+        }
+      ]
+    }
+  ]
+}
